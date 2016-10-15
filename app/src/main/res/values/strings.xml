@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="division">&#247;</string>
+    <string name="backspace">&#8701;</string>
+    <string name="minus">&#8211;</string>
+    <string name="plus">&#x2B;</string>
+    <string name="equal">&#x3D;</string>
+    <string name="sqrt">&#8730;</string>
+    <string name="pi">&#960;</string>
+    <string name="exponentX2">"x"&#178;</string>
+    <string name="exponentYx">"y"&#215;</string>
+    <string name="exponentex">"e"&#215;</string>
+
+</resources>
+
