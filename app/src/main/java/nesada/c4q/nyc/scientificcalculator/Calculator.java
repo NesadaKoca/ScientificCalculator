@@ -182,8 +182,8 @@ public class Calculator extends AppCompatActivity {
         try {
             equal = true;
 
-            if (arrayList.size() < 3){ // this means if the user did not clicked any button, or if he clicked just one or two do nothing, because
-                // at least he has to click 3 buttons, two numbers and one operator
+            if (arrayList.size() < 3){ // this means if the user did not clicked any button, or if he/she clicked just one or two do nothing, because
+                // at least he/she has to click 3 buttons, two numbers and one operator
                 tvStart.setText(Integer.toString(arrayList.size()));
             } else {
 
